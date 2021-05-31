@@ -1,0 +1,9 @@
+.root{
+    position:absolute;
+    right: 20px;
+   
+}
+.search {
+    padding:10px;
+    outline: none;
+}

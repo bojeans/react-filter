@@ -1,0 +1,9 @@
+.header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  padding: 0 20px;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
